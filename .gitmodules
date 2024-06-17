@@ -1,0 +1,6 @@
+[submodule "my_recipes_front"]
+	path = my_recipes_front
+	url = git@github.com:annatrajano/my_recipes_front.git
+[submodule "my_recipes_api"]
+	path = my_recipes_api
+	url = git@github.com:annatrajano/my_recipes_api.git

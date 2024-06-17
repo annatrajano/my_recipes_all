@@ -1,0 +1,9 @@
+services:
+  front:
+    build: my_recipes_front
+    ports:
+    - 3000:3000
+  back:
+    build: my_recipes_api
+    ports:
+    - 5000:5000
